@@ -36,3 +36,4 @@ fn main() {
     let result = min_sub_array_len(target, nums);
     println!("{}",result);
 }
+//attention! left is left_new+1!!!!!
